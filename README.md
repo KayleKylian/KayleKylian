@@ -3,4 +3,4 @@ Meu interesse pela programação existe há bastante tempo até então, com infl
 Estou estudando no momento C# e como objetivo .NET, com o objetivo de dominar o "Back-End".
 
 Quer entrar em contato comigo?
-Só chamar no telegram: https://t.me/azure_devlop
+Só chamar no telegram: https://t.me/tenebris_dev
